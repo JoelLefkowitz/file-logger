@@ -1,6 +1,6 @@
 {
   "name": "file-logger",
-  "description": "...",
+  "description": "Run tasks over a group of files with progress logs and spinner",
   "version": "0.0.0",
   "license": "MIT",
   "author": "Joel Lefkowitz",
@@ -10,7 +10,13 @@
   "files": [
     "dist"
   ],
-  "keywords": [],
+  "keywords": [
+    "tasks",
+    "files",
+    "progress",
+    "loggers",
+    "spinners"
+  ],
   "packageManager": "yarn@4.1.1",
   "metadata": {
     "publisher": "npm",
