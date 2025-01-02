@@ -6,8 +6,8 @@ Run tasks over a group of files with progress logs and spinner
 ![Version](https://img.shields.io/npm/v/file-logger)
 ![Downloads](https://img.shields.io/npm/dw/file-logger)
 ![Size](https://img.shields.io/bundlephobia/min/file-logger)
-![Quality](https://img.shields.io/codacy/grade/...)
-![Coverage](https://img.shields.io/codacy/coverage/...)
+![Quality](https://img.shields.io/codacy/grade/b37777bbeb5d417188ae9aee3c9a7c36)
+![Coverage](https://img.shields.io/codacy/coverage/b37777bbeb5d417188ae9aee3c9a7c36)
 
 ## Motivation
 
