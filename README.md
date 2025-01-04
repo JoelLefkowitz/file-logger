@@ -2,10 +2,10 @@
 
 Run tasks over a group of files with progress logs and spinner
 
-![Review](https://img.shields.io/github/actions/workflow/status/JoelLefkowitz/file-logger/review.yaml)
-![Version](https://img.shields.io/npm/v/file-logger)
-![Downloads](https://img.shields.io/npm/dw/file-logger)
-![Size](https://img.shields.io/bundlephobia/min/file-logger)
+![Review](https://img.shields.io/github/actions/workflow/status/JoelLefkowitz/file-loggers/review.yaml)
+![Version](https://img.shields.io/npm/v/file-loggers)
+![Downloads](https://img.shields.io/npm/dw/file-loggers)
+![Size](https://img.shields.io/bundlephobia/min/file-loggers)
 ![Quality](https://img.shields.io/codacy/grade/b37777bbeb5d417188ae9aee3c9a7c36)
 ![Coverage](https://img.shields.io/codacy/coverage/b37777bbeb5d417188ae9aee3c9a7c36)
 
@@ -18,7 +18,7 @@ It's a common requirement to run asynchronous tasks over group of files:
 This package allows you to simply provide a glob pattern for the files and a callback for each file:
 
 ```ts
-import { logger } from "file-logger";
+import { logger } from "file-loggers";
 
 logger(
   "src/**/*.ts",
@@ -37,12 +37,12 @@ logger(
 ## Installing
 
 ```bash
-npm install file-logger
+npm install file-loggers
 ```
 
 ## Documentation
 
-Documentation and more detailed examples are hosted on [Github Pages](https://joellefkowitz.github.io/file-logger).
+Documentation and more detailed examples are hosted on [Github Pages](https://joellefkowitz.github.io/file-loggers).
 
 ## Usage
 
