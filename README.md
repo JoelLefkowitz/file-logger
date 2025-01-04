@@ -11,7 +11,7 @@ Run tasks over a group of files with progress logs and spinner
 
 ## Motivation
 
-It's a common requirement to run asynchgronous tasks over group of files:
+It's a common requirement to run asynchronous tasks over group of files:
 
 ![Example](docs/images/example.gif)
 
